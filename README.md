@@ -25,4 +25,4 @@ Open index.html in your browser.
 🎬 Video Preview 
 
 
-<video src="videos/preview.mp4" autoplay loop muted playsinline width="600"></video>
+<video src="1 animei t.v. (2).mp4" autoplay loop muted playsinline width="600"></video>
