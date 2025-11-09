@@ -89,7 +89,7 @@ body {
 
 /* ----- Model ----- */
 .banner .model {
-  background: url('img.png') no-repeat center bottom;
+  background: url('model.png') no-repeat center bottom;
   background-size: contain;
   position: absolute;
   width: 100%;
@@ -193,3 +193,4 @@ a{
     color: inherit;
 
 }
+
